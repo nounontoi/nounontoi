@@ -1,4 +1,5 @@
-## Hi there 👋
+# nounontoi
+A little bad at coding, but whatever, it's still fun sometimes.
 
 <!--
 **nounontoi/nounontoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
